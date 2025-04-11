@@ -1,0 +1,10 @@
+C:\Users\EGOR\Desktop\a\C#\Stack\bin\Debug\Stack.exe.config
+C:\Users\EGOR\Desktop\a\C#\Stack\bin\Debug\Stack.exe
+C:\Users\EGOR\Desktop\a\C#\Stack\bin\Debug\Stack.pdb
+C:\Users\EGOR\Desktop\a\C#\Stack\obj\Debug\Stack.csproj.AssemblyReference.cache
+C:\Users\EGOR\Desktop\a\C#\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+C:\Users\EGOR\Desktop\a\C#\Stack\obj\Debug\Stack.exe
+C:\Users\EGOR\Desktop\a\C#\Stack\obj\Debug\Stack.pdb
+C:\Users\EGOR\Desktop\a\C#\Stack\bin\Debug\ClassLibrary1.dll
+C:\Users\EGOR\Desktop\a\C#\Stack\bin\Debug\ClassLibrary1.pdb
+C:\Users\EGOR\Desktop\a\C#\Stack\obj\Debug\Stack.csproj.Up2Date
