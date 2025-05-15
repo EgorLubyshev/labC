@@ -1,0 +1,12 @@
+C:\Users\EGOR\Desktop\a\C#\Stack\3\Hash\bin\Debug\net8.0\Hash.deps.json
+C:\Users\EGOR\Desktop\a\C#\Stack\3\Hash\bin\Debug\net8.0\Hash.dll
+C:\Users\EGOR\Desktop\a\C#\Stack\3\Hash\bin\Debug\net8.0\Hash.pdb
+C:\Users\EGOR\Desktop\a\C#\Stack\3\Hash\obj\Debug\net8.0\Hash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EGOR\Desktop\a\C#\Stack\3\Hash\obj\Debug\net8.0\Hash.AssemblyInfoInputs.cache
+C:\Users\EGOR\Desktop\a\C#\Stack\3\Hash\obj\Debug\net8.0\Hash.AssemblyInfo.cs
+C:\Users\EGOR\Desktop\a\C#\Stack\3\Hash\obj\Debug\net8.0\Hash.csproj.CoreCompileInputs.cache
+C:\Users\EGOR\Desktop\a\C#\Stack\3\Hash\obj\Debug\net8.0\Hash.sourcelink.json
+C:\Users\EGOR\Desktop\a\C#\Stack\3\Hash\obj\Debug\net8.0\Hash.dll
+C:\Users\EGOR\Desktop\a\C#\Stack\3\Hash\obj\Debug\net8.0\refint\Hash.dll
+C:\Users\EGOR\Desktop\a\C#\Stack\3\Hash\obj\Debug\net8.0\Hash.pdb
+C:\Users\EGOR\Desktop\a\C#\Stack\3\Hash\obj\Debug\net8.0\ref\Hash.dll

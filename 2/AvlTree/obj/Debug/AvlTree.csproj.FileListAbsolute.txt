@@ -1,0 +1,6 @@
+C:\Users\EGOR\Desktop\a\C#\Stack\2\AvlTree\bin\Debug\AvlTree.dll
+C:\Users\EGOR\Desktop\a\C#\Stack\2\AvlTree\bin\Debug\AvlTree.pdb
+C:\Users\EGOR\Desktop\a\C#\Stack\2\AvlTree\obj\Debug\AvlTree.csproj.AssemblyReference.cache
+C:\Users\EGOR\Desktop\a\C#\Stack\2\AvlTree\obj\Debug\AvlTree.csproj.CoreCompileInputs.cache
+C:\Users\EGOR\Desktop\a\C#\Stack\2\AvlTree\obj\Debug\AvlTree.dll
+C:\Users\EGOR\Desktop\a\C#\Stack\2\AvlTree\obj\Debug\AvlTree.pdb
