@@ -28,7 +28,14 @@ namespace Strings
                 if (j < 0)
                 {
                     result.Add(s);
-                    s += (s + pattern.Length < text.Length) ? pattern.Length - badChar[text[s + pattern.Length]] : 1;
+                    if (s + pattern.Length >= text.Length)
+                    {
+                        s += 1;
+                    }
+                    else
+                    {
+                        s += pattern.Length - badChar[text[s + pattern.Length]];
+                    }
                 }
                 else
                     s += Math.Max(1, j - badChar[text[s + j]]);

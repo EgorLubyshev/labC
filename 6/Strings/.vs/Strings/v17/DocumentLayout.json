@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\EGOR\\Desktop\\a\\C#\\labC\\6\\Strings\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{72A7027C-A07E-4731-AAA2-2C95010EC73E}|Strings.csproj|c:\\users\\egor\\desktop\\a\\c#\\labc\\6\\strings\\boyermoore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A7027C-A07E-4731-AAA2-2C95010EC73E}|Strings.csproj|solutionrelative:boyermoore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{72A7027C-A07E-4731-AAA2-2C95010EC73E}|Strings.csproj|c:\\users\\egor\\desktop\\a\\c#\\labc\\6\\strings\\kmpalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72A7027C-A07E-4731-AAA2-2C95010EC73E}|Strings.csproj|solutionrelative:kmpalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,16 +15,12 @@
       "RelativeMoniker": "D:0:0:{72A7027C-A07E-4731-AAA2-2C95010EC73E}|Strings.csproj|solutionrelative:rabinkarp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72A7027C-A07E-4731-AAA2-2C95010EC73E}|Strings.csproj|c:\\users\\egor\\desktop\\a\\c#\\labc\\6\\strings\\boyermoore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72A7027C-A07E-4731-AAA2-2C95010EC73E}|Strings.csproj|solutionrelative:boyermoore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{72A7027C-A07E-4731-AAA2-2C95010EC73E}|Strings.csproj|c:\\users\\egor\\desktop\\a\\c#\\labc\\6\\strings\\bruteforce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A7027C-A07E-4731-AAA2-2C95010EC73E}|Strings.csproj|solutionrelative:bruteforce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{72A7027C-A07E-4731-AAA2-2C95010EC73E}|Strings.csproj|c:\\users\\egor\\desktop\\a\\c#\\labc\\6\\strings\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72A7027C-A07E-4731-AAA2-2C95010EC73E}|Strings.csproj|solutionrelative:interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72A7027C-A07E-4731-AAA2-2C95010EC73E}|Strings.csproj|c:\\users\\egor\\desktop\\a\\c#\\labc\\6\\strings\\bruteforce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72A7027C-A07E-4731-AAA2-2C95010EC73E}|Strings.csproj|solutionrelative:bruteforce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,58 +54,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "BoyerMoore.cs",
               "DocumentMoniker": "C:\\Users\\EGOR\\Desktop\\a\\C#\\labC\\6\\Strings\\BoyerMoore.cs",
               "RelativeDocumentMoniker": "BoyerMoore.cs",
               "ToolTip": "C:\\Users\\EGOR\\Desktop\\a\\C#\\labC\\6\\Strings\\BoyerMoore.cs",
               "RelativeToolTip": "BoyerMoore.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCIAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCgAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T15:46:04.712Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "KMPAlgorithm.cs",
               "DocumentMoniker": "C:\\Users\\EGOR\\Desktop\\a\\C#\\labC\\6\\Strings\\KMPAlgorithm.cs",
               "RelativeDocumentMoniker": "KMPAlgorithm.cs",
               "ToolTip": "C:\\Users\\EGOR\\Desktop\\a\\C#\\labC\\6\\Strings\\KMPAlgorithm.cs",
               "RelativeToolTip": "KMPAlgorithm.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAgwC0AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwDQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T15:45:25.352Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "RabinKarp.cs",
               "DocumentMoniker": "C:\\Users\\EGOR\\Desktop\\a\\C#\\labC\\6\\Strings\\RabinKarp.cs",
               "RelativeDocumentMoniker": "RabinKarp.cs",
               "ToolTip": "C:\\Users\\EGOR\\Desktop\\a\\C#\\labC\\6\\Strings\\RabinKarp.cs",
               "RelativeToolTip": "RabinKarp.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwAsAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T15:44:56.525Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "BruteForce.cs",
               "DocumentMoniker": "C:\\Users\\EGOR\\Desktop\\a\\C#\\labC\\6\\Strings\\BruteForce.cs",
               "RelativeDocumentMoniker": "BruteForce.cs",
               "ToolTip": "C:\\Users\\EGOR\\Desktop\\a\\C#\\labC\\6\\Strings\\BruteForce.cs",
               "RelativeToolTip": "BruteForce.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T15:44:21.351Z"
+              "WhenOpened": "2025-05-21T15:44:21.351Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Interface.cs",
               "DocumentMoniker": "C:\\Users\\EGOR\\Desktop\\a\\C#\\labC\\6\\Strings\\Interface.cs",
               "RelativeDocumentMoniker": "Interface.cs",
@@ -113,8 +114,7 @@
               "RelativeToolTip": "Interface.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T15:42:07.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T15:42:07.543Z"
             }
           ]
         }

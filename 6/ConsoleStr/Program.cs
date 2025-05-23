@@ -10,7 +10,7 @@ class Program
         Console.Write("Введите подстроку для поиска: ");
         string pattern = Console.ReadLine();
 
-        string text = File.ReadAllText("alphabet.txt", Encoding.UTF8);
+        string text = File.ReadAllText("anna.txt", Encoding.UTF8);
 
         var algorithms = new List<(string Name, ISubstringSearch Alg)>
         {

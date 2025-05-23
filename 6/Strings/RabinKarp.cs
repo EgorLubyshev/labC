@@ -21,7 +21,7 @@ namespace Strings
             long textHash = CreateHash(text, m);
             long highestPow = 1;
 
-            // precompute Prime^(m-1) % Mod
+         
             for (int i = 0; i < m - 1; i++)
                 highestPow = (highestPow * Prime) % Mod;
 

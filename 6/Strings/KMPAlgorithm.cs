@@ -42,12 +42,19 @@ namespace Strings
             int length = 0;
             for (int i = 1; i < pattern.Length;)
             {
-                if (pattern[i] == pattern[length])
-                    lps[i++] = ++length;
+                if (pattern[i] == pattern[length]) { 
+                    length = length + 1;
+                    lps[i] = length;
+                    i++;
+                }
                 else if (length != 0)
                     length = lps[length - 1];
                 else
-                    lps[i++] = 0;
+                {
+                    lps[i] = 0;
+                    i++;    
+                }
+                 
             }
             return lps;
         }
