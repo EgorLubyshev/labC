@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\EGOR\\Desktop\\a\\C#\\Stack\\3\\ConsoleAppHash\\ConsoleAppHash.csproj",
+      "projectUniqueName": "C:\\Users\\EGOR\\Desktop\\a\\C#\\labC\\3\\ConsoleAppHash\\ConsoleAppHash.csproj",
       "projectName": "ConsoleAppHash",
-      "projectPath": "C:\\Users\\EGOR\\Desktop\\a\\C#\\Stack\\3\\ConsoleAppHash\\ConsoleAppHash.csproj",
+      "projectPath": "C:\\Users\\EGOR\\Desktop\\a\\C#\\labC\\3\\ConsoleAppHash\\ConsoleAppHash.csproj",
       "packagesPath": "C:\\Users\\EGOR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EGOR\\Desktop\\a\\C#\\Stack\\3\\ConsoleAppHash\\obj\\",
+      "outputPath": "C:\\Users\\EGOR\\Desktop\\a\\C#\\labC\\3\\ConsoleAppHash\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

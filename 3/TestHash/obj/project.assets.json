@@ -1658,11 +1658,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\EGOR\\Desktop\\a\\C#\\Stack\\3\\TestHash\\TestHash.csproj",
+      "projectUniqueName": "C:\\Users\\EGOR\\Desktop\\a\\C#\\labC\\3\\TestHash\\TestHash.csproj",
       "projectName": "TestHash",
-      "projectPath": "C:\\Users\\EGOR\\Desktop\\a\\C#\\Stack\\3\\TestHash\\TestHash.csproj",
+      "projectPath": "C:\\Users\\EGOR\\Desktop\\a\\C#\\labC\\3\\TestHash\\TestHash.csproj",
       "packagesPath": "C:\\Users\\EGOR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EGOR\\Desktop\\a\\C#\\Stack\\3\\TestHash\\obj\\",
+      "outputPath": "C:\\Users\\EGOR\\Desktop\\a\\C#\\labC\\3\\TestHash\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

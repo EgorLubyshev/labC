@@ -1,0 +1,12 @@
+C:\Users\EGOR\Desktop\a\C#\labC\6\Strings\bin\Debug\net8.0\Strings.deps.json
+C:\Users\EGOR\Desktop\a\C#\labC\6\Strings\bin\Debug\net8.0\Strings.dll
+C:\Users\EGOR\Desktop\a\C#\labC\6\Strings\bin\Debug\net8.0\Strings.pdb
+C:\Users\EGOR\Desktop\a\C#\labC\6\Strings\obj\Debug\net8.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EGOR\Desktop\a\C#\labC\6\Strings\obj\Debug\net8.0\Strings.AssemblyInfoInputs.cache
+C:\Users\EGOR\Desktop\a\C#\labC\6\Strings\obj\Debug\net8.0\Strings.AssemblyInfo.cs
+C:\Users\EGOR\Desktop\a\C#\labC\6\Strings\obj\Debug\net8.0\Strings.csproj.CoreCompileInputs.cache
+C:\Users\EGOR\Desktop\a\C#\labC\6\Strings\obj\Debug\net8.0\Strings.sourcelink.json
+C:\Users\EGOR\Desktop\a\C#\labC\6\Strings\obj\Debug\net8.0\Strings.dll
+C:\Users\EGOR\Desktop\a\C#\labC\6\Strings\obj\Debug\net8.0\refint\Strings.dll
+C:\Users\EGOR\Desktop\a\C#\labC\6\Strings\obj\Debug\net8.0\Strings.pdb
+C:\Users\EGOR\Desktop\a\C#\labC\6\Strings\obj\Debug\net8.0\ref\Strings.dll

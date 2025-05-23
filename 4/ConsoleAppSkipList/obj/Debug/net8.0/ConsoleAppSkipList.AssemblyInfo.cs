@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleAppSkipList")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f39405e169d02c1d8d2c4c54fc3643fa49df6a42")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+848af76c4d1459546b9a7740c99d2a0065529850")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleAppSkipList")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleAppSkipList")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -85,7 +85,7 @@ public class HashTable<TKey, TValue> : IDictionary<TKey, TValue>
     }
 
     public bool TryGetValue(TKey key, out TValue value)
-    {
+    {   
         int index = GetBucketIndex(key);
         if (_buckets[index] != null)
         {
@@ -135,7 +135,7 @@ public class HashTable<TKey, TValue> : IDictionary<TKey, TValue>
     public ICollection<TKey> Keys => this.Select(p => p.Key).ToList();
     public ICollection<TValue> Values => this.Select(p => p.Value).ToList();
     public int Count => _count;
-    public bool IsReadOnly => false;
+  
 
     public bool ContainsKey(TKey key)
     {

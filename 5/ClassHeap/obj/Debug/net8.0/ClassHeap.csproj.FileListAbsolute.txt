@@ -1,0 +1,12 @@
+C:\Users\EGOR\Desktop\a\C#\labC\6\ClassHeap\bin\Debug\net8.0\ClassHeap.deps.json
+C:\Users\EGOR\Desktop\a\C#\labC\6\ClassHeap\bin\Debug\net8.0\ClassHeap.dll
+C:\Users\EGOR\Desktop\a\C#\labC\6\ClassHeap\bin\Debug\net8.0\ClassHeap.pdb
+C:\Users\EGOR\Desktop\a\C#\labC\6\ClassHeap\obj\Debug\net8.0\ClassHeap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EGOR\Desktop\a\C#\labC\6\ClassHeap\obj\Debug\net8.0\ClassHeap.AssemblyInfoInputs.cache
+C:\Users\EGOR\Desktop\a\C#\labC\6\ClassHeap\obj\Debug\net8.0\ClassHeap.AssemblyInfo.cs
+C:\Users\EGOR\Desktop\a\C#\labC\6\ClassHeap\obj\Debug\net8.0\ClassHeap.csproj.CoreCompileInputs.cache
+C:\Users\EGOR\Desktop\a\C#\labC\6\ClassHeap\obj\Debug\net8.0\ClassHeap.sourcelink.json
+C:\Users\EGOR\Desktop\a\C#\labC\6\ClassHeap\obj\Debug\net8.0\ClassHeap.dll
+C:\Users\EGOR\Desktop\a\C#\labC\6\ClassHeap\obj\Debug\net8.0\refint\ClassHeap.dll
+C:\Users\EGOR\Desktop\a\C#\labC\6\ClassHeap\obj\Debug\net8.0\ClassHeap.pdb
+C:\Users\EGOR\Desktop\a\C#\labC\6\ClassHeap\obj\Debug\net8.0\ref\ClassHeap.dll

@@ -6,7 +6,7 @@ class Program
 {
     static void Main()
     {
-        const int n = 10000;
+        const int n = 100000;
         var rand = new Random();
         int[] array = new int[n];
         for (int i = 0; i < n; i++)

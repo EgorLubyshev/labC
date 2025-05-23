@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3Cv1JTiki/E=",
+  "dgSpecHash": "sDBu/Wmlg7Q=",
   "success": true,
-  "projectFilePath": "C:\\Users\\EGOR\\Desktop\\a\\C#\\Stack\\3\\TestHash\\TestHash.csproj",
+  "projectFilePath": "C:\\Users\\EGOR\\Desktop\\a\\C#\\labC\\3\\TestHash\\TestHash.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\EGOR\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",
     "C:\\Users\\EGOR\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",

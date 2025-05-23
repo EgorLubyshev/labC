@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\EGOR\\Desktop\\a\\C#\\Stack\\3\\TestHash\\",
+  "WorkspaceRootPath": "C:\\Users\\EGOR\\Desktop\\a\\C#\\labC\\3\\TestHash\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F0595C9-BCCE-4FB2-80BE-7A385837A758}|TestHash.csproj|c:\\users\\egor\\desktop\\a\\c#\\stack\\3\\testhash\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F0595C9-BCCE-4FB2-80BE-7A385837A758}|TestHash.csproj|c:\\users\\egor\\desktop\\a\\c#\\labc\\3\\testhash\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F0595C9-BCCE-4FB2-80BE-7A385837A758}|TestHash.csproj|solutionrelative:test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F0595C9-BCCE-4FB2-80BE-7A385837A758}|TestHash.csproj|c:\\users\\egor\\desktop\\a\\c#\\stack\\3\\testhash\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F0595C9-BCCE-4FB2-80BE-7A385837A758}|TestHash.csproj|c:\\users\\egor\\desktop\\a\\c#\\labc\\3\\testhash\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F0595C9-BCCE-4FB2-80BE-7A385837A758}|TestHash.csproj|solutionrelative:mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -44,11 +44,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Test1.cs",
-              "DocumentMoniker": "C:\\Users\\EGOR\\Desktop\\a\\C#\\Stack\\3\\TestHash\\Test1.cs",
+              "DocumentMoniker": "C:\\Users\\EGOR\\Desktop\\a\\C#\\labC\\3\\TestHash\\Test1.cs",
               "RelativeDocumentMoniker": "Test1.cs",
-              "ToolTip": "C:\\Users\\EGOR\\Desktop\\a\\C#\\Stack\\3\\TestHash\\Test1.cs",
+              "ToolTip": "C:\\Users\\EGOR\\Desktop\\a\\C#\\labC\\3\\TestHash\\Test1.cs",
               "RelativeToolTip": "Test1.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAgAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCMAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T10:08:15.568Z",
               "EditorCaption": ""
@@ -57,14 +57,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MSTestSettings.cs",
-              "DocumentMoniker": "C:\\Users\\EGOR\\Desktop\\a\\C#\\Stack\\3\\TestHash\\MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\EGOR\\Desktop\\a\\C#\\labC\\3\\TestHash\\MSTestSettings.cs",
               "RelativeDocumentMoniker": "MSTestSettings.cs",
-              "ToolTip": "C:\\Users\\EGOR\\Desktop\\a\\C#\\Stack\\3\\TestHash\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\EGOR\\Desktop\\a\\C#\\labC\\3\\TestHash\\MSTestSettings.cs",
               "RelativeToolTip": "MSTestSettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T10:08:09.02Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T10:08:09.02Z"
             }
           ]
         }

@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EGOR\\Desktop\\a\\C#\\labC\\6\\ClassHeap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13E26D0D-8F10-4BE2-A7FB-3310B3422DC3}|ClassHeap.csproj|c:\\users\\egor\\desktop\\a\\c#\\labc\\6\\classheap\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13E26D0D-8F10-4BE2-A7FB-3310B3422DC3}|ClassHeap.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13E26D0D-8F10-4BE2-A7FB-3310B3422DC3}|ClassHeap.csproj|c:\\users\\egor\\desktop\\a\\c#\\labc\\6\\classheap\\sorts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13E26D0D-8F10-4BE2-A7FB-3310B3422DC3}|ClassHeap.csproj|solutionrelative:sorts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sorts.cs",
+              "DocumentMoniker": "C:\\Users\\EGOR\\Desktop\\a\\C#\\labC\\6\\ClassHeap\\Sorts.cs",
+              "RelativeDocumentMoniker": "Sorts.cs",
+              "ToolTip": "C:\\Users\\EGOR\\Desktop\\a\\C#\\labC\\6\\ClassHeap\\Sorts.cs",
+              "RelativeToolTip": "Sorts.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T01:28:20.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\EGOR\\Desktop\\a\\C#\\labC\\6\\ClassHeap\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\EGOR\\Desktop\\a\\C#\\labC\\6\\ClassHeap\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T01:26:43.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
