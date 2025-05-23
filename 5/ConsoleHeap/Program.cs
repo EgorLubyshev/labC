@@ -4,12 +4,13 @@ class Program
 {
     static void Main()
     {
+        int range = 10000;
         var scenarios = new Dictionary<string, int[]>
         {
-            ["Sorted"] = Enumerable.Range(0, 10000).ToArray(),
-            ["Partially Sorted"] = Enumerable.Range(0, 10000).OrderBy(x => x % 100).ToArray(),
-            ["Random Distinct"] = Enumerable.Range(0, 10000).OrderBy(_ => Guid.NewGuid()).ToArray(),
-            ["Random With Duplicates"] = Enumerable.Range(0, 10000).Select(_ => Random.Shared.Next(0, 100)).ToArray(),
+            ["Sorted"] = Enumerable.Range(0, range).ToArray(),
+            ["Partially Sorted"] = Enumerable.Range(0, range).OrderBy(x => x % 100).ToArray(),
+            ["Random Distinct"] = Enumerable.Range(0, range).OrderBy(_ => Guid.NewGuid()).ToArray(),
+            ["Random With Duplicates"] = Enumerable.Range(0, range).Select(_ => Random.Shared.Next(0, 1000)).ToArray(),
         };
 
         foreach (var (name, original) in scenarios)

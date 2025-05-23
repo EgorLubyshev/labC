@@ -1,5 +1,6 @@
 ﻿using System.Diagnostics;
 using System.Text;
+using System.Text.RegularExpressions;
 using Strings;
 class Program
 {
@@ -9,7 +10,7 @@ class Program
         Console.Write("Введите подстроку для поиска: ");
         string pattern = Console.ReadLine();
 
-        string text = File.ReadAllText("anna.txt", Encoding.UTF8).ToLower();
+        string text = File.ReadAllText("alphabet.txt", Encoding.UTF8);
 
         var algorithms = new List<(string Name, ISubstringSearch Alg)>
         {
@@ -18,7 +19,7 @@ class Program
             ("KMP", new KMPAlgorithm()),
             ("Boyer-Moore", new BoyerMooreAlgorithm())
         };
-
+        
         foreach (var (name, alg) in algorithms)
         {
             var sw = Stopwatch.StartNew();

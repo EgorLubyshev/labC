@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestSkipList")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f39405e169d02c1d8d2c4c54fc3643fa49df6a42")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d301ff2bf6122b8b41d0f9164888c32f72ebed46")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestSkipList")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestSkipList")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

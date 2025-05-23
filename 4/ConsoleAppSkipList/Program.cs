@@ -24,7 +24,7 @@ class Program
                 sortedList[item] = item;
         }
 
-        // Delete from n/2 to 3/4 n
+        
         for (int i = n / 2; i < 3 * n / 4; i++)
         {
             skipList.Delete(array[i]);
@@ -33,7 +33,6 @@ class Program
 
         Stopwatch sw = new Stopwatch();
 
-        // Measure SkipList search
         sw.Start();
         foreach (var item in array)
         {
@@ -42,7 +41,6 @@ class Program
         sw.Stop();
         Console.WriteLine($"SkipList search time: {sw.ElapsedMilliseconds} ms");
 
-        // Measure SortedList search
         sw.Restart();
         foreach (var item in array)
         {

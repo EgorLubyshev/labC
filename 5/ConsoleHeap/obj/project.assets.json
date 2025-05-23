@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\EGOR\\Desktop\\a\\C#\\labC\\6\\ConsoleHeap\\ConsoleHeap.csproj",
+      "projectUniqueName": "C:\\Users\\EGOR\\Desktop\\a\\C#\\labC\\5\\ConsoleHeap\\ConsoleHeap.csproj",
       "projectName": "ConsoleHeap",
-      "projectPath": "C:\\Users\\EGOR\\Desktop\\a\\C#\\labC\\6\\ConsoleHeap\\ConsoleHeap.csproj",
+      "projectPath": "C:\\Users\\EGOR\\Desktop\\a\\C#\\labC\\5\\ConsoleHeap\\ConsoleHeap.csproj",
       "packagesPath": "C:\\Users\\EGOR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EGOR\\Desktop\\a\\C#\\labC\\6\\ConsoleHeap\\obj\\",
+      "outputPath": "C:\\Users\\EGOR\\Desktop\\a\\C#\\labC\\5\\ConsoleHeap\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -8,6 +8,7 @@ namespace Strings
 {
     public class BruteForceAlgorithm : ISubstringSearch
     {
+        //N*M
         public List<int> IndexesOf(string pattern, string text)
         {
             var result = new List<int>();

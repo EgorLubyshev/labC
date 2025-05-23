@@ -32,7 +32,7 @@ namespace TestStrings
         public void SearchBagOfWordsOnAnnaTxt()
         {
             string text;
-            using (var sr = new StreamReader("WarAndWorld.txt", Encoding.UTF8))
+            using (var sr = new StreamReader("anna.txt", Encoding.UTF8))
                 text = sr.ReadToEnd().ToLower();
 
             var bag = Regex.Matches(text, @"\w+")

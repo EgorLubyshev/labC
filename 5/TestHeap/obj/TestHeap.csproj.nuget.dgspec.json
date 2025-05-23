@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EGOR\\Desktop\\a\\C#\\labC\\6\\TestHeap\\TestHeap.csproj": {}
+    "C:\\Users\\EGOR\\Desktop\\a\\C#\\labC\\5\\TestHeap\\TestHeap.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EGOR\\Desktop\\a\\C#\\labC\\6\\TestHeap\\TestHeap.csproj": {
+    "C:\\Users\\EGOR\\Desktop\\a\\C#\\labC\\5\\TestHeap\\TestHeap.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EGOR\\Desktop\\a\\C#\\labC\\6\\TestHeap\\TestHeap.csproj",
+        "projectUniqueName": "C:\\Users\\EGOR\\Desktop\\a\\C#\\labC\\5\\TestHeap\\TestHeap.csproj",
         "projectName": "TestHeap",
-        "projectPath": "C:\\Users\\EGOR\\Desktop\\a\\C#\\labC\\6\\TestHeap\\TestHeap.csproj",
+        "projectPath": "C:\\Users\\EGOR\\Desktop\\a\\C#\\labC\\5\\TestHeap\\TestHeap.csproj",
         "packagesPath": "C:\\Users\\EGOR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EGOR\\Desktop\\a\\C#\\labC\\6\\TestHeap\\obj\\",
+        "outputPath": "C:\\Users\\EGOR\\Desktop\\a\\C#\\labC\\5\\TestHeap\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
